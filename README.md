@@ -2,7 +2,7 @@
 Я QA-инженер - специалист в области тестирования. Образование высшее. 
 В 2007 году окончил КГУКИ (г. Краснодар) по специальности "Прикладная информатика".
 В 2022 году окончил курс Web developer (HTML, CSS, JavaScript).
-В 2023 году окончил курс "Тестирование ПО".
+В 2023 году окончил курс "Тестирование ПО".(Сертификат: [Certificate KichakovEA.pdf](https://github.com/ekichakov/qa_ekichakov/files/10526139/Certificate.KichakovEA.pdf)) 
 В настоящее время изучаю тестирование ПО и прохожу курс "Тестирование ПО:Автоматизация и Программирование.Python.Selenium". 
 Также изучаю языки программирования Python и Java.
 
@@ -24,3 +24,5 @@
 Прикладное ПО и технологии:
 1. Postman, Git, Atlassian Jira, jmeter, DBeaver, DB Browser for SQL Lite, DevTools. 
 2. Python, Java, CSS, JavaScript, HTML5, CSS3, Bootstrap, jQuery.
+
+![Certificate KichakovEA](https://user-images.githubusercontent.com/101646218/215251823-2045aa8f-0f09-485e-a49a-f7b13856954a.jpg)
